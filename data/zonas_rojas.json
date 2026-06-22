@@ -1,0 +1,615 @@
+[
+  {
+    "id": "gro-acapulco-ciudad-renacimiento",
+    "name": "Ciudad Renacimiento",
+    "municipality": "Acapulco de Juarez",
+    "state": "Guerrero",
+    "risks": [
+      "Homicidio doloso",
+      "Extorsion",
+      "Control territorial",
+      "Robo con violencia"
+    ],
+    "description": "Sector de alta densidad con disputas por control territorial y redes de extorsion.",
+    "lat": 16.8919,
+    "lng": -99.8239,
+    "radius_m": 1600
+  },
+  {
+    "id": "gro-acapulco-emiliano-zapata",
+    "name": "Emiliano Zapata",
+    "municipality": "Acapulco de Juarez",
+    "state": "Guerrero",
+    "risks": [
+      "Cobro de piso",
+      "Homicidios dolosos",
+      "Despojo de viviendas"
+    ],
+    "description": "Zona prioritaria por enfrentamientos recurrentes y coaccion economica sobre comercios.",
+    "lat": 16.8981,
+    "lng": -99.8339,
+    "radius_m": 1500
+  },
+  {
+    "id": "gro-acapulco-progreso",
+    "name": "Colonia Progreso",
+    "municipality": "Acapulco de Juarez",
+    "state": "Guerrero",
+    "risks": [
+      "Asalto a transeunte",
+      "Extorsion a comercios",
+      "Robo de vehiculos"
+    ],
+    "description": "Corredor comercial con reportes de extorsion y robos violentos.",
+    "lat": 16.8585,
+    "lng": -99.8955,
+    "radius_m": 1100
+  },
+  {
+    "id": "gro-acapulco-el-coloso",
+    "name": "El Coloso",
+    "municipality": "Acapulco de Juarez",
+    "state": "Guerrero",
+    "risks": [
+      "Control territorial",
+      "Narcomenudeo",
+      "Homicidios"
+    ],
+    "description": "Conjunto habitacional expuesto a disputas de pandillas y grupos criminales.",
+    "lat": 16.8333,
+    "lng": -99.8167,
+    "radius_m": 1400
+  },
+  {
+    "id": "gro-acapulco-la-laja",
+    "name": "La Laja",
+    "municipality": "Acapulco de Juarez",
+    "state": "Guerrero",
+    "risks": [
+      "Robo con violencia",
+      "Asaltos",
+      "Ejecuciones"
+    ],
+    "description": "Zona de laderas y accesos complejos que dificultan la vigilancia.",
+    "lat": 16.8615,
+    "lng": -99.8851,
+    "radius_m": 1000
+  },
+  {
+    "id": "gro-acapulco-jardin-mangos",
+    "name": "Jardin Mangos",
+    "municipality": "Acapulco de Juarez",
+    "state": "Guerrero",
+    "risks": [
+      "Narcotrafico",
+      "Cobro de piso",
+      "Homicidios"
+    ],
+    "description": "Area vulnerable del poniente con violencia ligada a delincuencia organizada.",
+    "lat": 16.8845,
+    "lng": -99.9575,
+    "radius_m": 1200
+  },
+  {
+    "id": "gro-acapulco-carabali",
+    "name": "Carabali",
+    "municipality": "Acapulco de Juarez",
+    "state": "Guerrero",
+    "risks": [
+      "Lesiones intencionales",
+      "Asaltos",
+      "Rinas"
+    ],
+    "description": "Zona critica por incremento de hechos violentos y homicidios.",
+    "lat": 16.8672,
+    "lng": -99.8992,
+    "radius_m": 900
+  },
+  {
+    "id": "gro-acapulco-centro",
+    "name": "Centro",
+    "municipality": "Acapulco de Juarez",
+    "state": "Guerrero",
+    "risks": [
+      "Homicidio doloso",
+      "Extorsion",
+      "Robo comercial"
+    ],
+    "description": "Zona turistica y comercial con extorsion, cierres de negocios y ataques armados.",
+    "lat": 16.8494,
+    "lng": -99.9088,
+    "radius_m": 1000
+  },
+  {
+    "id": "gro-chilpancingo-los-angeles",
+    "name": "Los Angeles",
+    "municipality": "Chilpancingo de los Bravo",
+    "state": "Guerrero",
+    "risks": [
+      "Robo con violencia",
+      "Delincuencia organizada",
+      "Asaltos"
+    ],
+    "description": "Foco rojo prioritario en el sector oriente de la ciudad.",
+    "lat": 17.5575,
+    "lng": -99.491,
+    "radius_m": 1100
+  },
+  {
+    "id": "gro-chilpancingo-obrera",
+    "name": "Colonia Obrera",
+    "municipality": "Chilpancingo de los Bravo",
+    "state": "Guerrero",
+    "risks": [
+      "Delincuencia comun",
+      "Robo a casa habitacion",
+      "Asaltos"
+    ],
+    "description": "Sector poniente con reportes constantes de asaltos y robos violentos.",
+    "lat": 17.562,
+    "lng": -99.5085,
+    "radius_m": 1050
+  },
+  {
+    "id": "gro-chilpancingo-pri",
+    "name": "Colonia del PRI",
+    "municipality": "Chilpancingo de los Bravo",
+    "state": "Guerrero",
+    "risks": [
+      "Robo de vehiculos",
+      "Asaltos",
+      "Violencia intrafamiliar"
+    ],
+    "description": "Zona vulnerable por barrancas, areas oscuras y despojo vehicular.",
+    "lat": 17.5455,
+    "lng": -99.518,
+    "radius_m": 1100
+  },
+  {
+    "id": "gro-chilpancingo-el-amate",
+    "name": "El Amate",
+    "municipality": "Chilpancingo de los Bravo",
+    "state": "Guerrero",
+    "risks": [
+      "Narcomenudeo",
+      "Homicidios dolosos",
+      "Violencia armada"
+    ],
+    "description": "Colonia del norte considerada critica por enfrentamientos asociados al narcomenudeo.",
+    "lat": 17.578,
+    "lng": -99.502,
+    "radius_m": 1100
+  },
+  {
+    "id": "gro-iguala-san-jose",
+    "name": "Colonia San Jose",
+    "municipality": "Iguala de la Independencia",
+    "state": "Guerrero",
+    "risks": [
+      "Homicidios",
+      "Asaltos violentos",
+      "Cobro de piso"
+    ],
+    "description": "Sector con balaceras y atentados directos de alto impacto.",
+    "lat": 18.3485,
+    "lng": -99.529,
+    "radius_m": 1100
+  },
+  {
+    "id": "gro-iguala-capire",
+    "name": "Colonia Capire",
+    "municipality": "Iguala de la Independencia",
+    "state": "Guerrero",
+    "risks": [
+      "Privacion ilegal de la libertad",
+      "Homicidios",
+      "Tortura"
+    ],
+    "description": "Foco rojo periferico con hallazgos de victimas de ejecuciones.",
+    "lat": 18.337,
+    "lng": -99.544,
+    "radius_m": 1100
+  },
+  {
+    "id": "gro-iguala-centro",
+    "name": "Centro",
+    "municipality": "Iguala de la Independencia",
+    "state": "Guerrero",
+    "risks": [
+      "Ejecuciones de alto impacto",
+      "Extorsion",
+      "Cobro de piso"
+    ],
+    "description": "Corredor comercial bajo presion de delincuencia organizada.",
+    "lat": 18.3435,
+    "lng": -99.5375,
+    "radius_m": 1000
+  },
+  {
+    "id": "gro-iguala-el-naranjo",
+    "name": "El Naranjo",
+    "municipality": "Iguala de la Independencia",
+    "state": "Guerrero",
+    "risks": [
+      "Hallazgo de cadaveres",
+      "Ejecuciones",
+      "Violencia armada"
+    ],
+    "description": "Localidad rural periferica identificada como punto de riesgo.",
+    "lat": 18.305,
+    "lng": -99.723,
+    "radius_m": 1500
+  },
+  {
+    "id": "mex-ecatepec-ciudad-cuauhtemoc",
+    "name": "Ciudad Cuauhtemoc",
+    "municipality": "Ecatepec de Morelos",
+    "state": "Estado de Mexico",
+    "risks": [
+      "Feminicidio",
+      "Narcomenudeo",
+      "Asalto a transporte publico"
+    ],
+    "description": "Zona prioritaria por marginacion, violencia intrafamiliar y agresiones de genero.",
+    "lat": 19.605,
+    "lng": -99.006,
+    "radius_m": 1500
+  },
+  {
+    "id": "mex-ecatepec-jardines-morelos",
+    "name": "Jardines de Morelos",
+    "municipality": "Ecatepec de Morelos",
+    "state": "Estado de Mexico",
+    "risks": [
+      "Feminicidio",
+      "Robos violentos",
+      "Homicidio doloso"
+    ],
+    "description": "Barrio prioritario por crimenes violentos de genero y asaltos.",
+    "lat": 19.596,
+    "lng": -99.015,
+    "radius_m": 1400
+  },
+  {
+    "id": "mex-ecatepec-las-americas",
+    "name": "Las Americas",
+    "municipality": "Ecatepec de Morelos",
+    "state": "Estado de Mexico",
+    "risks": [
+      "Robo de vehiculo",
+      "Asalto a transeunte",
+      "Robos comerciales"
+    ],
+    "description": "Zona habitacional y vial con alta incidencia de robo vehicular violento.",
+    "lat": 19.598,
+    "lng": -99.032,
+    "radius_m": 1300
+  },
+  {
+    "id": "mex-ecatepec-hank-gonzalez",
+    "name": "Hank Gonzalez",
+    "municipality": "Ecatepec de Morelos",
+    "state": "Estado de Mexico",
+    "risks": [
+      "Narcomenudeo",
+      "Homicidios",
+      "Asaltos violentos"
+    ],
+    "description": "Sector periferico con problemas de iluminacion y vigilancia.",
+    "lat": 19.551,
+    "lng": -99.055,
+    "radius_m": 1300
+  },
+  {
+    "id": "mex-ecatepec-chiconautla",
+    "name": "Santa Maria Chiconautla",
+    "municipality": "Ecatepec de Morelos",
+    "state": "Estado de Mexico",
+    "risks": [
+      "Homicidios",
+      "Asalto con violencia",
+      "Narcomenudeo"
+    ],
+    "description": "Sector prioritario por delincuencia organizada y atracos a comercios.",
+    "lat": 19.613,
+    "lng": -99.018,
+    "radius_m": 1400
+  },
+  {
+    "id": "mex-ecatepec-santa-clara",
+    "name": "Santa Clara",
+    "municipality": "Ecatepec de Morelos",
+    "state": "Estado de Mexico",
+    "risks": [
+      "Robo de vehiculos",
+      "Delincuencia comun",
+      "Asaltos"
+    ],
+    "description": "Zona industrial y comercial con robo a transeuntes y vehiculos.",
+    "lat": 19.563,
+    "lng": -99.066,
+    "radius_m": 1300
+  },
+  {
+    "id": "gua-celaya-san-miguel-octopan",
+    "name": "San Miguel Octopan",
+    "municipality": "Celaya",
+    "state": "Guanajuato",
+    "risks": [
+      "Ejecuciones",
+      "Extorsion",
+      "Delincuencia organizada"
+    ],
+    "description": "Foco rojo rural con confrontaciones armadas y ataques contra locales.",
+    "lat": 20.5741,
+    "lng": -100.7477,
+    "radius_m": 1700
+  },
+  {
+    "id": "gua-celaya-santa-rita",
+    "name": "Colonia Santa Rita",
+    "municipality": "Celaya",
+    "state": "Guanajuato",
+    "risks": [
+      "Homicidios dolosos",
+      "Ataques incendiarios",
+      "Extorsion"
+    ],
+    "description": "Sector urbano conflictivo con agresiones armadas e incendios intencionales.",
+    "lat": 20.542,
+    "lng": -100.825,
+    "radius_m": 1300
+  },
+  {
+    "id": "gua-leon-brisas-campestre",
+    "name": "Brisas del Campestre",
+    "municipality": "Leon",
+    "state": "Guanajuato",
+    "risks": [
+      "Homicidios violentos",
+      "Narcomenudeo",
+      "Extorsion"
+    ],
+    "description": "Colonia identificada como una de las zonas delictivas prioritarias del Bajio.",
+    "lat": 21.165,
+    "lng": -101.761,
+    "radius_m": 1500
+  },
+  {
+    "id": "sin-culiacan-alturas-sur",
+    "name": "Alturas del Sur",
+    "municipality": "Culiacan",
+    "state": "Sinaloa",
+    "risks": [
+      "Homicidio",
+      "Violencia intrafamiliar",
+      "Robo a casa"
+    ],
+    "description": "Complejo habitacional con alta incidencia de violencia y robos a propiedad.",
+    "lat": 24.761,
+    "lng": -107.362,
+    "radius_m": 1500
+  },
+  {
+    "id": "sin-culiacan-centro",
+    "name": "Zona Centro",
+    "municipality": "Culiacan",
+    "state": "Sinaloa",
+    "risks": [
+      "Robo de vehiculos",
+      "Robo a comercio",
+      "Asaltos"
+    ],
+    "description": "Nucleo economico expuesto a robos de vehiculos y comercios.",
+    "lat": 24.808,
+    "lng": -107.394,
+    "radius_m": 1200
+  },
+  {
+    "id": "sin-culiacan-21-marzo",
+    "name": "Colonia 21 de Marzo",
+    "municipality": "Culiacan",
+    "state": "Sinaloa",
+    "risks": [
+      "Homicidios dolosos",
+      "Ataques directos",
+      "Balaceras"
+    ],
+    "description": "Zona con violencia armada y ataques directos en via publica.",
+    "lat": 24.781,
+    "lng": -107.368,
+    "radius_m": 1300
+  },
+  {
+    "id": "sin-culiacan-el-ranchito",
+    "name": "El Ranchito",
+    "municipality": "Culiacan",
+    "state": "Sinaloa",
+    "risks": [
+      "Abandono de cadaveres",
+      "Delincuencia organizada",
+      "Homicidios"
+    ],
+    "description": "Foco rojo periferico utilizado para abandono de victimas.",
+    "lat": 24.731,
+    "lng": -107.355,
+    "radius_m": 1600
+  },
+  {
+    "id": "sin-culiacan-barrancos",
+    "name": "Barrancos",
+    "municipality": "Culiacan",
+    "state": "Sinaloa",
+    "risks": [
+      "Robo a transeunte",
+      "Rina armada",
+      "Violencia familiar"
+    ],
+    "description": "Sector habitacional con robos violentos y agresiones familiares.",
+    "lat": 24.755,
+    "lng": -107.425,
+    "radius_m": 1500
+  },
+  {
+    "id": "bc-tijuana-camino-verde",
+    "name": "Camino Verde",
+    "municipality": "Tijuana",
+    "state": "Baja California",
+    "risks": [
+      "Homicidios",
+      "Balaceras",
+      "Ejecuciones"
+    ],
+    "description": "Colonia de topografia compleja con violencia ligada al control de puntos de droga.",
+    "lat": 32.482,
+    "lng": -116.985,
+    "radius_m": 1500
+  },
+  {
+    "id": "bc-tijuana-centro",
+    "name": "Zona Centro",
+    "municipality": "Tijuana",
+    "state": "Baja California",
+    "risks": [
+      "Robo con violencia",
+      "Lesiones",
+      "Rina urbana"
+    ],
+    "description": "Distrito turistico y comercial con asaltos y rinas violentas.",
+    "lat": 32.533,
+    "lng": -117.038,
+    "radius_m": 1200
+  },
+  {
+    "id": "bc-tijuana-sanchez-taboada",
+    "name": "Sanchez Taboada",
+    "municipality": "Tijuana",
+    "state": "Baja California",
+    "risks": [
+      "Homicidio doloso",
+      "Extorsion",
+      "Control de territorio"
+    ],
+    "description": "Sector periferico con alta incidencia de homicidio doloso.",
+    "lat": 32.468,
+    "lng": -116.982,
+    "radius_m": 1500
+  },
+  {
+    "id": "bc-tijuana-zona-norte",
+    "name": "Zona Norte",
+    "municipality": "Tijuana",
+    "state": "Baja California",
+    "risks": [
+      "Narcomenudeo",
+      "Balaceras diurnas",
+      "Homicidios"
+    ],
+    "description": "Colonia fronteriza con violencia asociada a puntos de venta de droga.",
+    "lat": 32.537,
+    "lng": -117.042,
+    "radius_m": 1000
+  },
+  {
+    "id": "bc-tijuana-lomas-taurinas",
+    "name": "Lomas Taurinas",
+    "municipality": "Tijuana",
+    "state": "Baja California",
+    "risks": [
+      "Ejecuciones",
+      "Tiroteos",
+      "Delincuencia organizada"
+    ],
+    "description": "Zona accidentada con ataques armados en calles y viviendas.",
+    "lat": 32.529,
+    "lng": -117.001,
+    "radius_m": 1300
+  },
+  {
+    "id": "bc-tijuana-el-soler",
+    "name": "El Soler",
+    "municipality": "Tijuana",
+    "state": "Baja California",
+    "risks": [
+      "Disputas territoriales",
+      "Asaltos violentos",
+      "Cobro de piso"
+    ],
+    "description": "Area del poniente con pugnas por control de accesos y cobros delictivos.",
+    "lat": 32.528,
+    "lng": -117.062,
+    "radius_m": 1300
+  },
+  {
+    "id": "pue-puebla-san-francisco-totimehuacan",
+    "name": "San Francisco Totimehuacan",
+    "municipality": "Puebla",
+    "state": "Puebla",
+    "risks": [
+      "Narcomenudeo",
+      "Robo violento",
+      "Asaltos a transporte"
+    ],
+    "description": "Junta auxiliar periferica identificada como foco rojo prioritario.",
+    "lat": 18.965,
+    "lng": -98.158,
+    "radius_m": 1600
+  },
+  {
+    "id": "pue-puebla-lomas-5-mayo",
+    "name": "Lomas 5 de Mayo",
+    "municipality": "Puebla",
+    "state": "Puebla",
+    "risks": [
+      "Narcomenudeo",
+      "Ejecuciones por arma de fuego"
+    ],
+    "description": "Barrio con presencia de bandas locales y muertes violentas.",
+    "lat": 19.052,
+    "lng": -98.168,
+    "radius_m": 1200
+  },
+  {
+    "id": "pue-puebla-san-pablo-xochimehuacan",
+    "name": "San Pablo Xochimehuacan",
+    "municipality": "Puebla",
+    "state": "Puebla",
+    "risks": [
+      "Hallazgo de cadaveres",
+      "Robo de combustible",
+      "Extorsion"
+    ],
+    "description": "Junta auxiliar afectada por bandas delictivas y violencia letal.",
+    "lat": 19.083,
+    "lng": -98.204,
+    "radius_m": 1500
+  },
+  {
+    "id": "pue-puebla-santa-cruz-buenavista",
+    "name": "Santa Cruz Buenavista",
+    "municipality": "Puebla",
+    "state": "Puebla",
+    "risks": [
+      "Robo a transeunte",
+      "Asaltos violentos",
+      "Robos comerciales"
+    ],
+    "description": "Foco rojo metropolitano con robos violentos a peatones y transporte.",
+    "lat": 19.062,
+    "lng": -98.253,
+    "radius_m": 1200
+  },
+  {
+    "id": "manual-b81c8b47f397",
+    "name": "La Mora",
+    "municipality": "Atlacomulco de Fabela",
+    "state": "Estado de México",
+    "risks": [
+      "Robo"
+    ],
+    "description": "Robaron",
+    "lat": 19.7940639,
+    "lng": -99.8791596,
+    "radius_m": 1000.0
+  }
+]
